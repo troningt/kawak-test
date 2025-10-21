@@ -14,8 +14,8 @@ Sistema CRUD para gestión de documentos con generación automática de códigos
 ### 1. Clonar el repositorio
 
 ```bash
-git clone <url-del-repositorio>
-cd document-management
+git clone https://github.com/troningt/kawak-test
+cd kawak-test
 ```
 
 ### 2. Instalar dependencias
